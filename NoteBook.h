@@ -21,8 +21,8 @@ public:
     bool setMemory (int Memory);
 
     int getMemory();
-    char * getModel ( char * Model);
-    char * getCPU ( char * CPU);
+    const char * getModel ( char * Model);
+    const char * getCPU ( char * CPU);
 
 
     bool operator> (const NoteBook & a) const;
