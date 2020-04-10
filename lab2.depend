@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1586509843 source:c:\users\user\desktop\lab2\main.cpp
+	"NoteBook.h"
+
+1586509843 c:\users\user\desktop\lab2\notebook.h
+	<iostream>
+	<cstring>
+
+1586509843 source:c:\users\user\desktop\lab2\notebook.cpp
+	"NoteBook.h"
+
